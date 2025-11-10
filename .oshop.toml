@@ -1,0 +1,8 @@
+# The version of the .oshop.toml schema.
+version = "1.0.0"
+
+# Link to the root directory of your project’s repository.
+repository = "https://github.com/code-build-deploy-developer/test-01/"
+
+# The name of your project.
+name = "Project Name"
