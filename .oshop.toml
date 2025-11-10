@@ -1,8 +1,20 @@
 # The version of the .oshop.toml schema.
-version = "1.0.0"
+version = "2025-11-01"
 
 # Link to the root directory of your project’s repository.
 repository = "https://github.com/code-build-deploy-developer/test-01/"
 
 # The name of your project.
-name = "Project Name"
+name = "Test Project"
+
+# (optional) The licenses of your project. Possible values are the SPDX IDs according to https://spdx.org/licenses.
+licenses: ['CERN-OHL-W-2.0+', 'CC-BY-SA-4.0+', 'BSD-3-Clause']
+
+# (optional) Link to the documentation of your project.
+documentation: 'https://github.com/code-build-deploy-developer/test-01/wiki'
+
+# (optional) Link to the issue/bug tracker of your project.
+issues: 'https://github.com/code-build-deploy-developer/test-01/issues'
+
+# (optional) Link to the releases of your project.
+releases: 'https://github.com/code-build-deploy-developer/test-01/releases'
