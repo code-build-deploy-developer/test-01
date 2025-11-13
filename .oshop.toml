@@ -18,3 +18,6 @@ issues = "https://github.com/code-build-deploy-developer/test-01/issues"
 
 # (optional) Link to the releases of your project.
 releases = "https://github.com/code-build-deploy-developer/test-01/releases"
+
+# (optional) Link to the hardware bill of material of your project.
+bom = "https://github.com/code-build-deploy-developer/test-01/tree/main/bom"
